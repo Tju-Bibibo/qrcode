@@ -1,4 +1,4 @@
-##qrcode使用指南
+#qrcode使用指南
 
 ###可执行程序使用方法
 clone qrcode_tkinter.exe程序到本地，然后直接即可运行，按照指示选择自定义的背景和参数即可
